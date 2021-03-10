@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d89c507-c8cc-43c6-912e-ba03a5738582" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Go/Basic/Keywords.md" afterDir="false" />
+    <list default="true" id="5d89c507-c8cc-43c6-912e-ba03a5738582" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/Go/Basic/Extlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go/Basic/Stdlib.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
     </list>
@@ -40,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -61,6 +63,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="727" y="440" key="Github.ShareDialog" timestamp="1615338534563">
       <screen x="28" y="23" width="1652" height="1027" />
@@ -70,6 +76,10 @@
       <screen x="28" y="23" width="1652" height="1027" />
     </state>
     <state x="688" y="248" key="Github.UntrackedFilesDialog/1680.23.1920.1057/28.23.1652.1027/-746.-1417.2560.1417@28.23.1652.1027" timestamp="1615338540749" />
+    <state x="454" y="276" key="Vcs.Push.Dialog.v2" timestamp="1615341895551">
+      <screen x="28" y="23" width="1652" height="1027" />
+    </state>
+    <state x="454" y="276" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/28.23.1652.1027/-746.-1417.2560.1417@28.23.1652.1027" timestamp="1615341895551" />
     <state x="652" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615339158245">
       <screen x="28" y="23" width="1652" height="1027" />
     </state>

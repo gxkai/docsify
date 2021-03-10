@@ -1,5 +1,6 @@
 * Go
-  * Base
+  * Basic
+    * [Keywords](./Go/Basic/Keywords.md)
 * JS
   * Vue
   * React
